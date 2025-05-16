@@ -1,3 +1,7 @@
+#dirs
+debug/
+
+
 # Prerequisites
 *.d
 
